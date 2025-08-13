@@ -4,7 +4,7 @@ import java.util.*;
 //Due Date: 5/9/25
 //Assignment: Candy Crush Project 
 
-public class project {
+public class CandyCrush {
 	
 	final static int size=9; //global variable to store the size of rows and columns
 	static int moves=0; //global variable to store moves

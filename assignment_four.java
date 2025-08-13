@@ -7,7 +7,7 @@ Write your code in this editor and press "Run" button to execute it.
 *******************************************************************************/
 import java.util.Scanner;
 
-public class AssignmentFour {
+public class assignment_four {
 
 	/**
 	 * @param usrStr - user input
